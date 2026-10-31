@@ -1,5 +1,7 @@
 # cn-deploy-openmausbot
 
+> **Series index:** [cn-deploy](https://github.com/fisheeplife-beep/cn-deploy) — Chinese follow-along deployment companions.
+
 Chinese, follow-along **deployment companion** for [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) (Apache-2.0) — not an official fork, and not a verbatim copy of upstream docs.
 
 **Start here (ZH):** [README.zh-CN.md](./README.zh-CN.md)
