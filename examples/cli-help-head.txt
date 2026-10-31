@@ -1,0 +1,5 @@
+openmausbot — your team of AI bots, ready in a few steps
+
+  openmausbot                         set up once, then open your workspace
+  openmausbot setup [--data-dir DIR]
+  openmausbot start [the same options as serve]

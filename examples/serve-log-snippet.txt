@@ -1,0 +1,10 @@
+(from author verification, 2026-10-31 Asia/Shanghai, Node 24.11.0, openmausbot@0.1.135)
+
+bot box: off (not-cloud)
+openmausbot webhook receiver on http://127.0.0.1:8800
+openmausbot open-source edition (enterprise layer present but OMB_LICENSE_KEY is not set)
+local requests: owner trust (self-hosted default)
+brand: default
+openmausbot server on http://127.0.0.1:8799
+OpenMausBot is running on http://127.0.0.1:8799
+data: /tmp/omb-verify-data

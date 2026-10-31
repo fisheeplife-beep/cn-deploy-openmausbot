@@ -1,0 +1,5 @@
+OpenMausBot 0.1.135 ("cn-deploy-verify") at http://127.0.0.1:8799: not ready
+You are: this computer (the owner)
+Engines available: none
+Bots' browser: installed (0.41.0)
+problem: no engine is available: set one up with `openmausbot engine set KIND --key-env VAR`

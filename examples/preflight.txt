@@ -1,0 +1,24 @@
+=== OpenMausBot CN preflight ===
+
+✅ Node.js 24.11.0 (>= 24 required for npm CLI path)
+   npm registry: https://registry.npmjs.org/
+⚠️  npm registry is official npmjs.org — fine if reachable; timeout → npm config set registry https://registry.npmmirror.com
+⚠️  Docker not installed — CLI / desktop paths still work
+✅ Port 8799 looks free
+✅ Port 8800 looks free
+✅ Port 8080 looks free
+✅ Port 5199 looks free
+
+--- agent engines (optional until you chat) ---
+⚠️  No claude on PATH — install & login before expecting doctor 'ready'
+⚠️  No codex on PATH — install & login before expecting doctor 'ready'
+⚠️  No grok on PATH — install & login before expecting doctor 'ready'
+
+--- network (best-effort) ---
+✅ Reachable: npmjs.org/openmausbot (HTTP 200)
+✅ Reachable: npmmirror/openmausbot (HTTP 200)
+✅ Reachable: ghcr.io (HTTP 401)
+✅ Reachable: GitHub releases (HTTP 200)
+✅ Reachable: openmausbot.com (HTTP 200)
+
+=== summary: 10 ok / 5 warn / 0 bad ===
