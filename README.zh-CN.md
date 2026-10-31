@@ -1,5 +1,7 @@
 # OpenMausBot 国内可跟做部署配套
 
+> **系列索引：** [cn-deploy](https://github.com/fisheeplife-beep/cn-deploy) — 中文可跟做部署配套合集。
+
 > 上游仓库：[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)（Apache-2.0；另有 `enterprise/` 源码可得树）  
 > 官网 / 下载：https://www.openmausbot.com/ · https://www.openmausbot.com/download  
 > 文档站（同源 docs）：上游 `apps/docs` · 自托管长文：`docs/deploy-vps.md`  
